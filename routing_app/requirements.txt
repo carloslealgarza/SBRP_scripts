@@ -1,0 +1,17 @@
+gunicorn 
+plotly==4.8.2
+plotly-express==0.4.1
+numpy==1.18.1
+requests==2.22.0
+pymssql
+dash==1.15.0
+dash-bootstrap-components==0.10.5
+dash-core-components==1.11.0
+dash-daq==0.5.0
+dash-html-components==1.1.0
+dash-renderer==1.7.0
+dash-table==4.10.0
+dask==2.11.0
+Flask==1.1.1
+pandas==1.0.1
+ortools==7.7.7810
